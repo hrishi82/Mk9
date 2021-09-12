@@ -1,0 +1,39 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: black;
+  color: white;
+}
+
+.container {
+  display: block;
+  max-width: 500px;
+  margin: auto;
+}
+
+.genre-key-container {
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.genre-keys {
+  margin: 20px;
+  border: 1px solid grey;
+  padding: 0.7rem 0.9rem;
+  border-radius: 4rem;
+  cursor: pointer;
+}
+
+#heading {
+  margin-top: 100px;
+  font-weight: bold;
+  font-size: 2rem;
+}
+
+#para-txt {
+  margin-top: 40px;
+  font-style: italic;
+}
